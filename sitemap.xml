@@ -5,7 +5,7 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/</loc>
+    <loc>https://drake-more-life.netlify.com/songs/</loc>
     <changefreq>always</changefreq>
     <priority>1</priority>
   </url>
@@ -15,644 +15,716 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/</loc>
     <changefreq>always</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-leaked-more-life.html</loc>
-    <lastmod>2016-02-10</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-the-more-life-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-download-mp3.html</loc>
     <lastmod>2016-02-12</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-songs.html</loc>
-    <lastmod>2016-02-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/download-drakes-new-album-free.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-download-music.html</loc>
     <lastmod>2016-02-15</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-download.html</loc>
-    <lastmod>2016-02-17</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-full-album-free-download.html</loc>
+    <lastmod>2016-02-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-album-download.html</loc>
+    <lastmod>2016-02-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-album-mp3.html</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-drake-album-zip.html</loc>
-    <lastmod>2016-02-25</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-download.html</loc>
+    <lastmod>2016-02-24</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/download-drake-more-life-for-free.html</loc>
-    <lastmod>2016-02-26</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/where-can-i-download-more-life.html</loc>
+    <lastmod>2016-02-29</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/download-drake-more-life-full-album.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/download-drake-more-life-album.html</loc>
     <lastmod>2016-03-01</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/telecharger-drake-more-life.html</loc>
-    <lastmod>2016-03-08</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/listen-to-more-life-drake.html</loc>
-    <lastmod>2016-03-10</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-new-album.html</loc>
-    <lastmod>2016-03-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-listen.html</loc>
-    <lastmod>2016-03-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-album-view-from-the-6-download.html</loc>
-    <lastmod>2016-03-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-2017-download.html</loc>
-    <lastmod>2016-03-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-listen-free.html</loc>
-    <lastmod>2016-03-17</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-new-album-2017-download.html</loc>
-    <lastmod>2016-03-20</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-album-free-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/download-drake-more-life-album-for-free.html</loc>
+    <lastmod>2016-03-03</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-the-view-free-download.html</loc>
+    <lastmod>2016-03-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/download-drake-new-album-for-free.html</loc>
+    <lastmod>2016-03-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/where-to-download-more-life.html</loc>
+    <lastmod>2016-03-14</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/the-more-life-album-download.html</loc>
+    <lastmod>2016-03-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/download-album-drake-more-life.html</loc>
+    <lastmod>2016-03-24</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-album-full-download.html</loc>
+    <lastmod>2016-03-25</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-by-drake-album-download.html</loc>
     <lastmod>2016-03-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-download-link.html</loc>
-    <lastmod>2016-03-27</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/the-6-drake-download.html</loc>
+    <lastmod>2016-04-05</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/download-drake-album-free.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/how-to-download-more-life.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-album-download-mp3.html</loc>
-    <lastmod>2016-04-07</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-download.html</loc>
+    <lastmod>2016-04-11</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-download-zip.html</loc>
-    <lastmod>2016-04-12</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-free-stream.html</loc>
+    <lastmod>2016-04-13</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-torrent.html</loc>
+    <lastmod>2016-04-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-full-download.html</loc>
+    <lastmod>2016-04-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-free-mp3-download.html</loc>
+    <lastmod>2016-04-15</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/new-drake-album-2017-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-download-mp3.html</loc>
+    <lastmod>2016-04-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/download-drake-more-life-free-mp3.html</loc>
     <lastmod>2016-04-16</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-new-album-2017.html</loc>
-    <lastmod>2016-04-17</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-download-album.html</loc>
-    <lastmod>2016-04-17</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/free-download-more-life.html</loc>
+    <loc>https://drake-more-life.netlify.com/albums/download-the-more-life-drake.html</loc>
     <lastmod>2016-04-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/download-drake-more-life-album.html</loc>
-    <lastmod>2016-04-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-full-album-download.html</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/download-more-life-album-free.html</loc>
-    <lastmod>2016-04-24</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/how-to-listen-to-more-life.html</loc>
-    <lastmod>2016-04-26</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/download-drake-more-life-album-zip.html</loc>
-    <lastmod>2016-04-28</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-download-free-mp3.html</loc>
-    <lastmod>2016-04-29</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/where-can-i-download-more-life.html</loc>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/where-can-i-listen-to-more-life.html</loc>
-    <lastmod>2016-05-04</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/download-drake-more-life-full-album.html</loc>
+    <lastmod>2016-04-23</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-audio.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-mp3-free-download.html</loc>
     <lastmod>2016-05-07</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/free-drake-new-album-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-album-stream.html</loc>
+    <lastmod>2016-05-08</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-full-download.html</loc>
     <lastmod>2016-05-09</lastmod>
     <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-mp3-download.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-download-free.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-listen.html</loc>
+    <lastmod>2016-05-11</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-new-tracks-download.html</loc>
     <lastmod>2016-05-12</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-release-date.html</loc>
-    <lastmod>2016-05-15</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/download-drake-new-music.html</loc>
+    <lastmod>2016-05-16</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-full.html</loc>
-    <lastmod>2016-05-21</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/how-to-get-more-life.html</loc>
-    <lastmod>2016-05-25</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/where-can-i-get-more-life.html</loc>
-    <lastmod>2016-05-29</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-the-more-life.html</loc>
-    <lastmod>2016-05-30</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/drake-the-6-album-download.html</loc>
+    <lastmod>2016-05-20</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-the-view-free-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/play-drake-more-life.html</loc>
+    <lastmod>2016-05-20</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/where-to-download-drake-new-album.html</loc>
+    <lastmod>2016-05-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-new-album-zip.html</loc>
+    <lastmod>2016-05-24</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-download-album.html</loc>
     <lastmod>2016-05-31</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-new-album-free-music-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-the-more-life.html</loc>
+    <lastmod>2016-05-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/download-more-life-drake-free.html</loc>
     <lastmod>2016-06-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-leak-download.html</loc>
-    <lastmod>2016-06-03</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-free-download-mp3.html</loc>
-    <lastmod>2016-06-03</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/download-drake-album-for-free.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life.html</loc>
     <lastmod>2016-06-08</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/telecharger-more-life.html</loc>
-    <lastmod>2016-06-12</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-drake-free-album-download.html</loc>
-    <lastmod>2016-06-15</lastmod>
-    <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-free.html</loc>
-    <lastmod>2016-06-16</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-telecharger.html</loc>
-    <lastmod>2016-06-21</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-free-download.html</loc>
-    <lastmod>2016-06-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/drakes-more-life-free-download.html</loc>
-    <lastmod>2016-06-25</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-album-download-free.html</loc>
-    <lastmod>2016-06-26</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/drakes-more-life.html</loc>
-    <lastmod>2016-07-20</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-leak.html</loc>
-    <lastmod>2016-07-21</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/vft6-download.html</loc>
-    <lastmod>2016-07-21</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-album-zip-download.html</loc>
-    <lastmod>2016-07-21</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-zip.html</loc>
-    <lastmod>2016-07-22</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-download-sharebeast.html</loc>
+    <lastmod>2016-06-13</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-zip.html</loc>
-    <lastmod>2016-07-23</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/where-can-i-download-drakes-new-album.html</loc>
+    <lastmod>2016-06-21</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-download-zip-free.html</loc>
+    <loc>https://drake-more-life.netlify.com/albums/new-drake-download.html</loc>
+    <lastmod>2016-06-23</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life.html</loc>
+    <lastmod>2016-06-27</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-download.html</loc>
+    <lastmod>2016-07-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drakes-new-album-free-download.html</loc>
+    <lastmod>2016-07-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/the-more-life-drake-free-download.html</loc>
+    <lastmod>2016-07-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-leak.html</loc>
+    <lastmod>2016-07-26</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/download-more-life-by-drake-for-free.html</loc>
+    <lastmod>2016-07-29</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-drake-leak.html</loc>
     <lastmod>2016-07-30</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-online-free.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-album-descargar.html</loc>
     <lastmod>2016-08-02</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/the-6-drake-album.html</loc>
-    <lastmod>2016-08-07</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/view-from-the-6-zip.html</loc>
-    <lastmod>2016-08-09</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-download.html</loc>
+    <lastmod>2016-08-05</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-album-more-life-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-album-download-zip.html</loc>
     <lastmod>2016-08-17</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/where-to-listen-to-more-life.html</loc>
-    <lastmod>2016-08-22</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-zippyshare.html</loc>
+    <lastmod>2016-08-21</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-leak.html</loc>
+    <lastmod>2016-08-21</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-drake-album-download-free.html</loc>
+    <lastmod>2016-08-23</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/how-to-listen-to-more-life.html</loc>
     <lastmod>2016-08-24</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/download-drake-album-more-life.html</loc>
-    <lastmod>2016-08-25</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-free-download.html</loc>
+    <lastmod>2016-08-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-by-drake.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-free-listen.html</loc>
     <lastmod>2016-08-31</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-6-more-life.html</loc>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-full-album-zip.html</loc>
+    <lastmod>2016-09-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-album-leak.html</loc>
     <lastmod>2016-09-08</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/new-drake-album-free-download-zip.html</loc>
-    <lastmod>2016-09-10</lastmod>
-    <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/stream-drake-more-life.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-album-free-download.html</loc>
     <lastmod>2016-09-12</lastmod>
     <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-zip-file.html</loc>
+    <lastmod>2016-09-17</lastmod>
+    <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-view-from-the-6-download.html</loc>
-    <lastmod>2016-09-21</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/free-download-more-life.html</loc>
+    <lastmod>2016-09-23</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-album-free-download.html</loc>
+    <lastmod>2016-09-23</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-ft-rihanna-more-life.html</loc>
+    <lastmod>2016-09-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/listen-to-drake-more-life-full-album.html</loc>
-    <lastmod>2016-10-06</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/telecharger-drake-more-life.html</loc>
+    <lastmod>2016-09-27</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life.html</loc>
-    <lastmod>2016-10-07</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-free-download.html</loc>
+    <lastmod>2016-09-30</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-2017-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/how-to-get-more-life.html</loc>
+    <lastmod>2016-10-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/download-drake-new-album-more-life.html</loc>
     <lastmod>2016-10-11</lastmod>
     <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-listen.html</loc>
+    <lastmod>2016-10-12</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/download-new-drake-album-2017.html</loc>
+    <lastmod>2016-10-13</lastmod>
+    <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-songs.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/the-6-drake.html</loc>
+    <lastmod>2016-10-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/download-drake-the-more-life.html</loc>
     <lastmod>2016-10-16</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/download-drake-more-life-mp3.html</loc>
-    <lastmod>2016-10-29</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-release.html</loc>
+    <lastmod>2016-10-21</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-album.html</loc>
-    <lastmod>2016-11-02</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life.html</loc>
+    <lastmod>2016-10-25</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-album-mp3-free-download.html</loc>
-    <lastmod>2016-11-14</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-stream-free.html</loc>
+    <lastmod>2016-10-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/free-drake-new-album-download.html</loc>
+    <lastmod>2016-10-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-release-date-drake.html</loc>
+    <lastmod>2016-10-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-album-download-mp3.html</loc>
+    <lastmod>2016-11-05</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-mp3-listen.html</loc>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-by-drake.html</loc>
+    <lastmod>2016-11-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/download-drake-full-album-free.html</loc>
+    <lastmod>2016-11-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/listen-to-drake-more-life-free.html</loc>
+    <lastmod>2016-11-13</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-album-2017-mp3-download.html</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-of-the-6-download.html</loc>
     <lastmod>2016-11-16</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-leak-drake.html</loc>
-    <lastmod>2016-11-19</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-free-download-drake.html</loc>
-    <lastmod>2016-11-22</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-drake-mp3-download.html</loc>
+    <lastmod>2016-11-20</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-mp3-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-listen.html</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-album-songs.html</loc>
-    <lastmod>2016-11-27</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/where-to-get-more-life.html</loc>
+    <lastmod>2016-11-23</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-album-more-life-mp3.html</loc>
-    <lastmod>2016-11-29</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/drake-album-more-life-free-download.html</loc>
+    <lastmod>2016-12-01</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-mixtape-download.html</loc>
-    <lastmod>2016-11-30</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-mp3-download.html</loc>
-    <lastmod>2016-12-04</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-drake-full-album.html</loc>
-    <lastmod>2016-12-09</lastmod>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-album-download-free.html</loc>
+    <lastmod>2016-12-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-leak.html</loc>
-    <lastmod>2016-12-20</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-drake-album-zip.html</loc>
+    <lastmod>2016-12-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-album-download-free.html</loc>
-    <lastmod>2016-12-21</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/more-life-download-album.html</loc>
+    <lastmod>2016-12-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-drake-free-download.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-zip-download.html</loc>
+    <lastmod>2016-12-03</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-link.html</loc>
+    <lastmod>2016-12-05</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-new-album-more-life-download.html</loc>
+    <lastmod>2016-12-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-album-more-life-download.html</loc>
+    <lastmod>2016-12-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-online.html</loc>
+    <lastmod>2016-12-14</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-2017-download.html</loc>
+    <lastmod>2016-12-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-album-download.html</loc>
     <lastmod>2016-12-22</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/more-life-leak.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-free-drake.html</loc>
     <lastmod>2016-12-24</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/albums/more-life-online-free.html</loc>
-    <lastmod>2017-01-07</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-full-download.html</loc>
-    <lastmod>2017-01-07</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/download-free-drake-more-life.html</loc>
-    <lastmod>2017-01-08</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/free-download-more-life-1.html</loc>
-    <lastmod>2017-01-10</lastmod>
-    <changefreq>always</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life-zip-file.html</loc>
-    <lastmod>2017-01-14</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-2017-album-download.html</loc>
-    <lastmod>2017-01-15</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-free-mp3-download.html</loc>
-    <lastmod>2017-01-17</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://drake-more-life.netlify.com/albums/drake-more-life-tracklist.html</loc>
-    <lastmod>2017-01-21</lastmod>
+    <lastmod>2016-12-25</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/albums/drake-2017-album-free-download.html</loc>
-    <lastmod>2017-01-26</lastmod>
+    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-free-download-mp3.html</loc>
+    <lastmod>2016-12-27</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/free-download-drake-more-life.html</loc>
+    <lastmod>2016-12-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-mp3-download-drake.html</loc>
+    <lastmod>2017-01-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-full-album-free-download.html</loc>
-    <lastmod>2017-01-31</lastmod>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-tracklist-download.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-full-album-download.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-download-more-life.html</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/download-free-drake-more-life-album.html</loc>
+    <lastmod>2017-01-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/where-to-download-drakes-new-album-free.html</loc>
+    <lastmod>2017-01-17</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-new-album-free-download.html</loc>
+    <lastmod>2017-01-20</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/songs/more-life.html</loc>
+    <loc>https://drake-more-life.netlify.com/downloads/more-life-album-zip-download.html</loc>
+    <lastmod>2017-01-24</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/new-drake-album-download.html</loc>
+    <lastmod>2017-01-25</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-album.html</loc>
     <lastmod>2017-02-01</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-6.html</loc>
-    <lastmod>2017-02-04</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/downloads/drake-more-life-album-download-zip.html</loc>
-    <lastmod>2017-02-05</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://drake-more-life.netlify.com/songs/stream-drake-more-life-1.html</loc>
+    <loc>https://drake-more-life.netlify.com/songs/drake-more-life-free-download-album.html</loc>
     <lastmod>2017-02-07</lastmod>
     <changefreq>always</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/songs/more-life-drake-zip-download.html</loc>
+    <lastmod>2017-02-08</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://drake-more-life.netlify.com/albums/drake-more-life-download-zippy.html</loc>
+    <lastmod>2017-02-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
