@@ -1,0 +1,1 @@
+window.location = "http://civ6hack.fr";
